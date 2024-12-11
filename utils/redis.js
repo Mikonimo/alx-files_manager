@@ -1,4 +1,4 @@
-import redis form 'redis';
+import redis from 'redis';
 import { promisify } from 'util';
 
 /**
